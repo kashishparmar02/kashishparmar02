@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=kashishparmar02&show_icons=true&theme=vision-friendly-dark">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haard04&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishparmar02&theme=vision-friendly-dark">
 </p>
